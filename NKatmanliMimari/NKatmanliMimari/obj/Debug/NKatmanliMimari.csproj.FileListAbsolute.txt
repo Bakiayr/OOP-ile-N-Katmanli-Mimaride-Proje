@@ -1,0 +1,17 @@
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.dll
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csprojAssemblyReference.cache
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CopyComplete
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\bakia\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
